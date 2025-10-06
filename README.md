@@ -82,7 +82,7 @@ else:
 
 ## Output:
 ![decision tree classifier model](sam.png)
-[text](../Pictures/Screenshots)
+![alt text](<Screenshot 2025-10-06 213359.png>)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
