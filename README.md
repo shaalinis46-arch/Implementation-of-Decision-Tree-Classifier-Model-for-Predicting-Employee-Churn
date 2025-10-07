@@ -8,17 +8,17 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the employee dataset and separate it into input features and target (churn status).
+2. Split the dataset into training and testing sets.
+3. Train the Decision Tree Classifier model using the training data.
+4. Predict the churn status for the test data and evaluate the model’s accuracy.
 
 ## Program:
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: shaalini.s
+RegisterNumber:  25017649
 */
 import pandas as pd
 from sklearn.model_selection import train_test_split
